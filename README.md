@@ -1,4 +1,4 @@
-# Newsletter
+# Newsletter API-Integration
 Simple Email Sign-up Landing Page using Express and Mailchimp API.
 
 ## Learning Objectives
