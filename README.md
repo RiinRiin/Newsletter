@@ -1,5 +1,6 @@
 # Newsletter API-Integration
 Simple Email Sign-up Landing Page using Express and Mailchimp API.
+**EDIT:*** Mailchimp disabled my API-Key due to security concern and is no longer connected. Everything else is still functional. 
 
 ## Learning Objectives
 * ***API*** integration through ***Express*** using ***Node.js***
